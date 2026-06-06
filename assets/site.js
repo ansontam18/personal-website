@@ -154,8 +154,8 @@ function econ101aView() {
     { n: "Section 20", t: "Asymmetric Information",                           links: [["Section 20.pdf", "PDF"], ["Section 20 - Solutions.pdf", "Solutions"]] },
   ];
   const videos = [
-    ["Walkthrough", "Solving a consumer optimization problem"],
-    ["Review session", "Midterm 1 — worked problems"],
+    // ["Walkthrough", "Solving a consumer optimization problem"],
+    // ["Review session", "Midterm 1 — worked problems"],
   ];
 
   const noteRows = notes.map(({ n, t, links }) => `
@@ -187,10 +187,11 @@ function econ101aView() {
     <div class="notes-list">${noteRows}</div>
   </div>
 
+  `; /*
   <div class="block">
     <div class="section-head"><span class="idx mono">+</span><h2>Teaching videos</h2></div>
     <div class="videos">${videoCards}</div>
-  </div>`;
+  </div>*/
 }
 
 function blogView() {
