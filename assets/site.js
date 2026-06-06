@@ -34,7 +34,7 @@ function homeView() {
         <dd class="linkrow">
           <a href="mailto:ansontam@berkeley.edu">Email</a>
           <a href="#cv">CV</a>
-          <a href="#" target="_blank" rel="noopener">GitHub</a>
+          <a href="https://github.com/ansontam18" target="_blank" rel="noopener">GitHub</a>
           <a href="https://www.linkedin.com/in/a-tam/" target="_blank" rel="noopener">LinkedIn</a>
         </dd>
       </dl>
@@ -232,7 +232,7 @@ function contactView() {
     <div style="padding-top:8px">
       <dl>
         <dt class="mono">Office</dt><dd>[TBD]<br/>Julis Romo Rabinowitz Building<br/>Princeton University</dd>
-        <dt class="mono">GitHub</dt><dd><a href="#" target="_blank" rel="noopener">@ansontam →</a></dd>
+        <dt class="mono">GitHub</dt><dd><a href="https://github.com/ansontam18" target="_blank" rel="noopener">@ansontam18 →</a></dd>
         <dt class="mono">LinkedIn</dt><dd><a href="https://www.linkedin.com/in/a-tam/" target="_blank" rel="noopener">in/a-tam →</a></dd>
         <dt class="mono">CV</dt><dd><a href="#cv">Download PDF →</a></dd>
       </dl>
